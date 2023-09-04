@@ -11,14 +11,14 @@ Sign-Translator-Using-Wearables
   - In UK, Approximately 1,50,000 people use British Sign Language (BSL).
   - In India, approximately 1.5 million signers use Indo-Pakistani Sign Language.
 
-- Popular approach: A relay service (text and video based)​
+- One approach supporting phone call: A relay service (text and video based)​
   - Takes extra time, complex settings and inconsistent call ​
   - Only person should talk or type at a time​
   - Sensitive and private information or data & image might be leaked
 
-- SLR is really necessary but not easy to create a tool that meets daily conversation and there are gaps to fill in such as real-time and natural output decoding, sensor selection and placement optimization, and robustness with non-uniform background environments ...
+- SLR is really necessary but not easy to create a tool that meets daily conversation (including online) and there are gaps to fill in such as real-time and natural output decoding, sensor selection and placement optimization, and robustness with non-uniform background environments ...
 
-- Proposed pipeline
+- Proposed pipeline for making phone call:
 
 ![image](https://github.com/manhph2211/Sign-Translator/assets/61444616/68110ed0-4e69-4bca-beb6-5e7f889aca52)
 
